@@ -21,4 +21,10 @@ public void deletetwitter()
 {
 	System.out.println("deletetwitter");
 }
+@Test
+public void deletetwitter12()
+{
+	System.out.println("deletetwitter");
+}
+
 }
