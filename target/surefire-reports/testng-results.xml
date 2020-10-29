@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+      <class name="qaclickacademy.mavenjava.restAPITest">
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:qaclickacademy.mavenjava.restAPITest@7b49cea0]" name="deletetwitter" duration-ms="0" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:qaclickacademy.mavenjava.restAPITest@7b49cea0]" name="postjira" duration-ms="1" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- qaclickacademy.mavenjava.restAPITest -->
+      <class name="qaclickacademy.mavenjava.appiumTest">
+        <test-method status="PASS" signature="iosapps()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@61f8bee4]" name="iosapps" duration-ms="7" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapps -->
+        <test-method status="PASS" signature="nativeappandroid()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@61f8bee4]" name="nativeappandroid" duration-ms="1" started-at="2020-10-02T18:30:08 PDT" finished-at="2020-10-02T18:30:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- qaclickacademy.mavenjava.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
